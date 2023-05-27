@@ -2,7 +2,7 @@
 
 ## Project Summary:
 - This project has automated user API from Postman using Newman
-- In this project, we can see a few basic mobile banking operations like Depositing, Send Money, Payment, Withdrawing, and Balance Check
+- In this project, we can see a few basic mobile banking operations like Depositing, Send Money, Payment, Withdrawing, and Balance Check.
 ## Technology used:
 - Postman
 - Newman
