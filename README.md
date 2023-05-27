@@ -40,13 +40,13 @@
 
 ![Newman Report Request](https://github.com/PranabPaulJoy/mbank-newman/assets/127541697/8ad70fa2-2954-4a8f-8663-c184a72cc68d)
 
-## Positive and Negative case are Created for Follwing Scenraio
+## Based on following Scenario this Positive and Negative case has been Created
 
-1. Admin creates an agent and random 2 customers
-2. Deposit some money from SYSTEM account to the agent
-3. Agent deposit to any of 1 customer
-4. The customer checks balance
-5. Then withdraw any amount from the agent
-6. And send money to the other customer
-7. Then the customer will check statement
-8. For each transaction, assert expected balance
+1. At first Admin creates an agent and random 2 customers
+2. SYSTEM account Deposit some money to the agent
+3. Agent Deposit some money to the customer 1
+4. The Customer Withdraw some amount from agent
+5. The Customer Send money to another customer
+6. The Customer Payment to the merchant
+7. The Agent check balance & statment
+8. The Customers check balance & statement
