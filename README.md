@@ -27,7 +27,7 @@
 - https://documenter.getpostman.com/view/27452892/2s93m7WMLp
 
 ## Test Cases for this project (Link is given below): 
-- https://docs.google.com/spreadsheets/d/1yLzROG3W5J4HhHzH8wULBNJQUC2DoAm3/edit?usp=sharing&ouid=102526777056504026911&rtpof=true&sd=true
+- https://docs.google.com/spreadsheets/d/1Xk7c1t757wVcOpx7k-bGOiI9SSah3W6G/edit?usp=sharing&ouid=110143819451733453606&rtpof=true&sd=true
 
 ## Bug report for this project (Link is given below):
 - https://docs.google.com/spreadsheets/d/1XXIdrY2fAczTM0hihcEzJuUqz6_0RjKN/edit?usp=sharing&ouid=102526777056504026911&rtpof=true&sd=true
