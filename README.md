@@ -30,7 +30,7 @@
 - https://docs.google.com/spreadsheets/d/1Xk7c1t757wVcOpx7k-bGOiI9SSah3W6G/edit?usp=sharing&ouid=110143819451733453606&rtpof=true&sd=true
 
 ## Bug report for this project (Link is given below):
-- https://docs.google.com/spreadsheets/d/1XXIdrY2fAczTM0hihcEzJuUqz6_0RjKN/edit?usp=sharing&ouid=102526777056504026911&rtpof=true&sd=true
+- https://docs.google.com/spreadsheets/d/1QA997U19yanklwkRpzpI6txA9pVKa04F/edit?usp=sharing&ouid=110143819451733453606&rtpof=true&sd=true
 
 ## Based on following Scenario this Positive and Negative case has been Created
 
