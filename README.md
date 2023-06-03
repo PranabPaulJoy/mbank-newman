@@ -12,15 +12,9 @@
 - NodeJS
 - Git
 ## How to run this project
-- clone this project
-- Open with any code editor / Command Shell
-- ## Give this following command :
-- ``` npm init -y ```
--  ``` npm i newman ```
--  ``` npx newman run .\collection\mbank.js ```
--  ``` npm i newman-reporter-htmlextra ```
--  ``` node .\report.js ```
-
+- git clone <repo_url>
+- npm i
+- npm test
 
 
 ## API Documentation:
